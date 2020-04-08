@@ -1,6 +1,5 @@
 <?php
 /***
- *      @author: Arib Tajuddin
  *
  */
 
